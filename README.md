@@ -1,13 +1,16 @@
 # Read Me
-This was my first project using Spring/Spring Boot and while there was a lot of trial and error, I learned a lot
+This was my first project using Spring or Spring Boot and while there was a lot of trial and error, I learned a lot
 
 I wrote and tested the code using Eclipse on a Mac
-To run the program:
+
+The process to run the program may vary depending on which operating system and IDE you are using
+
+To run the program using Eclipse on a Mac:
 
 * Open Eclipse
-* Select File-Open File...
-* Then find the folder, in this case it is the rest-test folder
-* Select the file and click open
+* Select File-Open Projects from File System...
+* Then find the folder, in this case it is the LifewayChallenge-master folder
+* Select the folder and click open
 * The project should begin to load
 * You can either select Run in the toolbar and select Run or click the green play icon near the top-left of the window
 
