@@ -12,8 +12,12 @@ To run the program:
 * You can either select Run in the toolbar and select Run or click the green play icon near the top-left of the window
 
 The project will run, displaying the total number of words in the json field "message" up to that point
+
 It will not count the words in the "message" field if the "id" field is identical to a previous "id"
+
 The project reads from the file data.json, which can be found in the highest level directory in the rest-test folder
+
 Feel free to edit the data.json file to test other json data
+
 It will then write to a new file result.json in json format in the same directory as data.json
 
